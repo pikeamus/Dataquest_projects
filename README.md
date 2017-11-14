@@ -9,3 +9,7 @@ Uses pandas, some string maniulation and data cleaning, and a chisquared test to
 
 ## Car Price Prediction - 
 Uses the k-nearest neighbours machine learning algorithm to predict car prices from numeric features (like horsepower or fuel efficiency). Includes some preliminary data cleaning. Now updated to include cross validation (using the scikit-learn cross validator) to generate improved error metrics.
+
+## House Price Prediction - WIP
+Example of using linear regression modelling to predict sale prices of houses. Demonstrates feature transformation (creating dummies for nominals, dealing with nulls, mapping ordinal strings), feature selection and using cross validation for generating error metrics.
+WIP status: 30% complete. Close to finishing feature transformation.
